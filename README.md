@@ -38,15 +38,15 @@ A simple blog engine using Python, Jinja2 and SQL (to store posts and comments).
 # Mini Projects
 
 * **login**
-*  Angela Lin, Christina Ko
-*  7/mongoproj/angela-christina
+  *  Angela Lin, Christina Ko
+  *  7/mongoproj/angela-christina
 
 * **regexp**
-*  Angela Lin, Coby Goldberg
-*  7/regexp/Coby-Angela
+  *  Angela Lin, Coby Goldberg
+  *  7/regexp/Coby-Angela
 
 * **intro-proj 1**
-*  Angela Lin, Christina Ko
-*  7/intro-proj1/Christina-Angela
+  *  Angela Lin, Christina Ko
+  *  7/intro-proj1/Christina-Angela
 
 
