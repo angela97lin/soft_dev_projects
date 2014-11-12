@@ -34,6 +34,19 @@ A simple blog engine using Python, Jinja2 and SQL (to store posts and comments).
 *  https://github.com/ChristinaKo/Angela-Christina-mongo
 *  git@github.com:RzhanRichardZhan/Bloglite.git
 
+### Project 3 name:
+API_work (API Project)
+
+#### Team members:
+Angela Lin, Justin Strauss
+
+#### Description
+Using Google's various APIs (Geocode, Directions, Maps) and the Citibike JSON / API to compare whether bicycling or taking public transporation is faster from a specified origin and destination.
+
+#### HTTPS/SSH clone link:
+* https://github.com/angela97lin/API_work
+* git@github.com:angela97lin/API_work.git
+
 ======================
 # Mini Projects
 
