@@ -31,7 +31,7 @@ Angela Lin, Richard Zhan, Derek Tsui, Kyler Chase
 A simple blog engine using Python, Jinja2 and SQL (to store posts and comments).
 
 #### HTTPS/SSH clone link:
-*  https://github.com/ChristinaKo/Angela-Christina-mongo
+*  https://github.com/RzhanRichardZhan/Bloglite
 *  git@github.com:RzhanRichardZhan/Bloglite.git
 
 ### Project 3 name:
