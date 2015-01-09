@@ -6,6 +6,14 @@ Angela Lin
 ------------
 
 # Main Projects:
+###Final Project name:
+FoodMe
+
+#### Team members:
+Angela Lin, Christina Ko, Lise Ho
+
+SSH clone link: 
+* git@github.com:ChristinaKo/SoftDev_FoodMe.git
 
 ### Project 1 name:
 "team_hacky" (Language Interpreter / Data Scraping)
