@@ -12,7 +12,7 @@ FoodMe
 #### Team members:
 Angela Lin, Christina Ko, Lise Ho
 
-SSH clone link: 
+#### SSH clone link: 
 * git@github.com:ChristinaKo/SoftDev_FoodMe.git
 
 ### Project 1 name:
